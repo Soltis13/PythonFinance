@@ -8,3 +8,17 @@ Educational material, notebooks and notes on using Python for Finance and Tradin
     Coding up a simple algorithmic trading strategy.
     Backtesting
     Optimizations, strategy’s performance and robustness.
+
+## Installation Notes
+
+    Anaconda
+    XAMPP
+    Slack
+    VisualStudioCode
+    Python
+    NodeJS
+    MySQL Workbench
+    mongoDB
+    Heroku
+    Git
+    
