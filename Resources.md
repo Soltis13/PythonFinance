@@ -1,4 +1,4 @@
-
+## Online Resources
 
 
 ## Webisites
@@ -19,9 +19,10 @@
 
     https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python
   
-
-  
   
 ## Software Sources
   https://www.anaconda.com/distribution/#download-section
+ 
+
+
   
