@@ -68,4 +68,6 @@ This notebook will just go through the basic topics in order:
     methods
         .upper()
         .split()
-        
+
+NumPy
+    Python Library
