@@ -19,8 +19,17 @@
 
     NumPy
         Arrays
+            np.array()
         2D Arrays
         Array operations
+            np.arange() //Provides a range in the array
+            np.zeros() // creates an array of zeros
+            type()
+            np.random.rand //random values in a given shape
+            np.linspace //starts and stops and provides evenly spaced numbers (start, stop, spacing)
+            np.eye // a square matrix with same number of rows and columns
+            
+
         Statics with NumPy
 
 ## Intro to R for Fianace
@@ -56,7 +65,7 @@
         names(apple_stock) <- c("")
 
     Data Frames
-        data.frae()
+        data.frame()
         str()ucture
         columns/Rows
         Manipuation    
