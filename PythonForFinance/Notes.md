@@ -32,6 +32,30 @@
 
         Statics with NumPy
 
+            np.random.randn(1,1) // numbers, by number of number groups
+            ranarr // random array
+            arr // "Array"
+            arr.reshape() //
+            arr.shape
+            ranarr.max // max number in array
+            ranarr.argmax // location of max value
+
+            arr + arr //addition on elelment in array by each element
+            arr * arr / muliplication
+            //includes all basic operators
+
+            indexing
+            "," makes the array
+            np.zeros(10)
+            np.ones(10)
+            np.arrange(10,51,2) //step size 2
+    
+    Pandas Pandas Library
+        Panel-Data - crated for financial data sets            
+
+
+
+
 ## Intro to R for Fianace
 
     Basics
@@ -43,7 +67,10 @@
         assign a value " <- "
         example dan <- 100
         print by typing the variable (no print command needed)
-        <-c() combine function      
+        <-c() combine function  
+
+        attributes()
+        attr(Name, which = "F")    
 
     Vectors and Matrices
         c()ombine
@@ -74,3 +101,17 @@
         cut()
 
     Lists
+        <- list()
+        Use single bragets [] tp access list
+        Use [[]] to access inside list
+
+        Add portfolio$AddThisName <- c("x","y","z")
+
+        Delete
+        portfolio$AddThisName <- NUll
+
+        split() "split-apply-combine"
+        unsplit()
+
+
+
