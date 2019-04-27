@@ -55,7 +55,7 @@
         import pandas as pd
 
         Series   
-            
+
 
 
 
@@ -125,6 +125,7 @@
         
         main formate of date 2017-01-28 or 2017/07/28
         as.Date("01/28/207", format = "%m/%d/%y) - amoung other date formats -see lists
-
+    
+    
 
 
