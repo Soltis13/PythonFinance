@@ -51,7 +51,11 @@
             np.arrange(10,51,2) //step size 2
     
     Pandas Pandas Library
-        Panel-Data - crated for financial data sets            
+        Panel-Data - crated for financial data sets         
+        import pandas as pd
+
+        Series   
+            
 
 
 
@@ -112,6 +116,15 @@
 
         split() "split-apply-combine"
         unsplit()
+
+    Date
+        today <- sys.date()
+        Sys.time()
+        Sys.Date()
+        as.numeric()
+        
+        main formate of date 2017-01-28 or 2017/07/28
+        as.Date("01/28/207", format = "%m/%d/%y) - amoung other date formats -see lists
 
 
 
