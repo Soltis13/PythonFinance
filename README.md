@@ -17,6 +17,7 @@ Educational material, notebooks and notes on using Python for Finance and Tradin
             
 ### XAMPP
     https://www.apachefriends.org/index.html
+    
     setting up a local test server on your computer relatively easy. It provides the (W)AMP stack - Apache, MySQL, and PHP. It also includes PHPMyAdmin which is very useful for dealing with your MySQL databases.
     
     localhost/dashboard
@@ -41,11 +42,12 @@ Educational material, notebooks and notes on using Python for Finance and Tradin
 
 ### VisualStudioCode
 
-
-    Python
-    NodeJS
-    MySQL Workbench
-    mongoDB
-    Heroku
-    Git
+### Python
+    
+### NodeJS
+    
+### MySQL Workbench
+### mongoDB
+### Heroku
+### Git
     
