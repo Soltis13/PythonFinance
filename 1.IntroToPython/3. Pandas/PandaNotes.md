@@ -8,5 +8,9 @@
 ## Tutorials
     http://cs231n.github.io/python-numpy-tutorial/
 
-## Coding Notes
+## Coding Notes  
+    .loc // for the label based
+    .iloc // for the numerical based
+    
+       
 
